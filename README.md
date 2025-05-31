@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [2752-sum-multiples](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
