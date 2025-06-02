@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
