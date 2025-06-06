@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Greedy
+|  |
+| ------- |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
