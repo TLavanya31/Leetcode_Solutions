@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
@@ -24,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
