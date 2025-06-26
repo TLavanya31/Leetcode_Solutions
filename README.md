@@ -22,6 +22,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
