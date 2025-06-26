@@ -53,6 +53,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,10 +77,12 @@
 | ------- |
 | [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Bucket Sort
 |  |
 | ------- |
