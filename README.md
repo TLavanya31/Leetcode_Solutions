@@ -61,12 +61,14 @@
 | [0142-linked-list-cycle-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -135,4 +138,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
