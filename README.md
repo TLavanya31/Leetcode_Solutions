@@ -144,4 +144,16 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
