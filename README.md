@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2083-three-divisors](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2083-three-divisors) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
