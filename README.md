@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
