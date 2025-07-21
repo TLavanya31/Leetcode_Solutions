@@ -40,6 +40,7 @@
 | [0742-to-lower-case](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0742-to-lower-case) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1651-shuffle-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1651-shuffle-string) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1651-shuffle-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
