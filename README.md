@@ -97,6 +97,7 @@
 | [0164-maximum-gap](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1651-shuffle-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 ## Tree
 |  |
