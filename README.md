@@ -20,6 +20,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Memoization
@@ -101,6 +102,7 @@
 | [0011-container-with-most-water](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
