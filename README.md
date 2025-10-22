@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -106,6 +107,7 @@
 | [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -141,10 +143,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2083-three-divisors) |
 ## Heap (Priority Queue)
