@@ -172,17 +172,24 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0319-bulb-switcher) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
