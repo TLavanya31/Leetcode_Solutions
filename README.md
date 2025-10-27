@@ -99,6 +99,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
@@ -176,16 +177,19 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Brainteaser
 |  |
