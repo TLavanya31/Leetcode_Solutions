@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 ## Tree
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
