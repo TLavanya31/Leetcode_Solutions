@@ -36,6 +36,7 @@
 | [0338-counting-bits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1651-shuffle-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2634-minimum-common-value](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
