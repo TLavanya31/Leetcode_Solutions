@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0509-fibonacci-number) |
