@@ -98,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
@@ -218,4 +219,12 @@
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
