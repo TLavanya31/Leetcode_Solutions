@@ -106,6 +106,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
@@ -124,6 +125,7 @@
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1651-shuffle-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1651-shuffle-string) |
@@ -135,6 +137,7 @@
 | [0164-maximum-gap](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -177,6 +180,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
