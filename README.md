@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -36,6 +37,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0338-counting-bits) |
