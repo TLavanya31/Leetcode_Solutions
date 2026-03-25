@@ -56,11 +56,13 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3174-clear-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [3174-clear-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0225-implement-stack-using-queues](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [3174-clear-digits](https://github.com/TLavanya31/https-github.com-TLavanya31-Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
